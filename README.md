@@ -21,6 +21,9 @@ Selection test for a technology company specializing in Virtual Reality (VR) and
 ### Knowledge of Django Backend
 
 * [x] Configuration of the database entities
+
+![alt text](https://github.com/ffriz22/IoT_Team-SelectionTest/blob/main/entities.png?raw=true)
+
 * [x] Creation of two apps (Business and Logistics)
 ```
 CoffeeControl
@@ -40,3 +43,5 @@ CoffeeControl
 │   │       └── business_of_coffe.py
 ```
 * [x] Added conditions for the main SetUp of the entities
+
+![alt text](https://github.com/ffriz22/IoT_Team-SelectionTest/blob/main/example2.png?raw=true)
