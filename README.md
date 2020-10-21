@@ -3,9 +3,9 @@ Selection test for a technology company specializing in Virtual Reality (VR) and
 
 ## Index of tests performed
 
-1. Python Programming ```+ Python 3.7```
-2. Bash Programming ```+ SH-3.2```
-3. Knowledge of Django Backend ```+ Django 3.1.2 and Python 3.7```
+1. Python Programming ```Python 3.7```
+2. Bash Programming ```SH-3.2```
+3. Knowledge of Django Backend ```Django 3.1.2 and Python 3.7```
 
 ### Python programming
 
