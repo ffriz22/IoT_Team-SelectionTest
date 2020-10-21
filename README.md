@@ -9,13 +9,14 @@ Selection test for a technology company specializing in Virtual Reality (VR) and
 
 ### Python programming
 
-* [x] Prueba_1.py: get_api_data
-* [x] Prueba_2.py: concurrency_with_coffee
+* [x] Prueba_1.py: get_api_data ```python3 prueba_1.py```
+* [x] Prueba_2.py: concurrency_with_coffee ```python3 prueba_2.py```
 
 ### Bash programming
 
-* [x] i_am_the_master_of_files.sh
-* [x] i_can_alter_your_reality.sh
+(macOS Environment)
+* [x] i_am_the_master_of_files.sh ```sh i_am_the_master_of_files.sh <file_name> <uuid>``` 
+* [x] i_can_alter_your_reality.sh ```sh i_can_alter_your_reality.sh <file_name> <uuid>```
 
 ### Knowledge of Django Backend
 
