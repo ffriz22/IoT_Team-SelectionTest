@@ -38,6 +38,5 @@ CoffeeControl
 │   ├── Management
 │   │   └── commands
 │   │       └── business_of_coffe.py
-│   └── elements.html
 ```
 * [x] Added conditions for the main SetUp of the entities
