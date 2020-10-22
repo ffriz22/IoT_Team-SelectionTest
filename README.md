@@ -12,18 +12,22 @@ Selection test for a technology company specializing in Virtual Reality (VR) and
 ### Python programming
 
 * [x] **Collection and processing** 
+
 prueba_1.py: get_api_data ```python3 prueba_1.py```
 
 * [x] **Concurrency** 
+
 prueba_2.py: concurrency_with_coffee ```python3 prueba_2.py```
 
 ### Bash programming
 
 (macOS Environment)
 * [x] **Creation of files with parameters** 
+
 i_am_the_master_of_files.sh ```sh i_am_the_master_of_files.sh <file_name> <uuid>``` 
 
 * [x] **Modification of files with parameters** 
+
 i_can_alter_your_reality.sh ```sh i_can_alter_your_reality.sh <file_name> <uuid>```
 
 ### Knowledge of Django Backend [Master branch](https://github.com/ffriz22/IoT_Team-SelectionTest/tree/master)
