@@ -1,6 +1,8 @@
 # IoT_Team-SelectionTest
 Selection test for a technology company specializing in Virtual Reality (VR) and Augmented Reality (AR) Programming in Python, Bash and knowledge in Django
 
+To enter the django repository you must go to the [Master branch](https://github.com/ffriz22/IoT_Team-SelectionTest/tree/master)
+
 ## Index of tests performed
 
 1. Python Programming ```Python 3.7```
@@ -18,7 +20,7 @@ Selection test for a technology company specializing in Virtual Reality (VR) and
 * [x] i_am_the_master_of_files.sh ```sh i_am_the_master_of_files.sh <file_name> <uuid>``` 
 * [x] i_can_alter_your_reality.sh ```sh i_can_alter_your_reality.sh <file_name> <uuid>```
 
-### Knowledge of Django Backend
+### Knowledge of Django Backend [Master branch](https://github.com/ffriz22/IoT_Team-SelectionTest/tree/master)
 
 * [x] Configuration of the database entities
 
